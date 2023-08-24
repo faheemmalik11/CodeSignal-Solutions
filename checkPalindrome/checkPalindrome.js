@@ -8,7 +8,7 @@ function solution(inputString) {
     return false;
 }
 
-// Another Solution 
+// Best Solution 
 function solution(inputString) {
     return inputString == inputString.split('').reverse().join('');
 }
